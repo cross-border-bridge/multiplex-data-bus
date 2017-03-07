@@ -1,0 +1,7 @@
+*~
+node_modules/
+lib/
+typings/
+build/
+coverage/
+npm-debug.log
